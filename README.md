@@ -36,3 +36,15 @@ Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes p
 
 ```bash
 git clone https://github.com/LizethDG/ProyectoFinal.git
+```
+## Prueba de endpoints con Postman
+- Login
+![image](https://github.com/user-attachments/assets/4543635f-d4df-4ea0-bc4a-a3459bd2fed1)
+- Regsitro
+![image](https://github.com/user-attachments/assets/d892bcf9-e99f-4843-910d-8454ec141b55)
+- Index
+![image](https://github.com/user-attachments/assets/0257255e-d367-4ce9-bcd9-d5c973722912)
+- Perfil
+![image](https://github.com/user-attachments/assets/efe5a169-e32f-4ad4-9c8d-d3d805c7e93b)
+
+
