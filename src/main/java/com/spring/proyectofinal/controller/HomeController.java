@@ -14,7 +14,7 @@ public class HomeController {
     @Autowired
     private UsuarioService usuarioService;
 
-    @GetMapping("/")
+    @GetMapping("/index")
     public String home(Model model) {
         model.addAttribute("mensaje", "¡Bienvenido! Usa el formulario para registrarte.");
         return "index"; // Renderiza index.html
